@@ -1,0 +1,17 @@
+#uno{
+    display: flex;
+    align-items: center;
+}
+
+#fotoperfil{
+    width: 200px;
+    height: auto;
+}
+
+.text h1, .text h3{
+    margin: 0;
+}
+
+#Experiencia,p{
+    margin: 0;
+}
